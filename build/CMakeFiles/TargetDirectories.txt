@@ -1,0 +1,3 @@
+/home/amrita/Desktop/Example/build/CMakeFiles/rebuild_cache.dir
+/home/amrita/Desktop/Example/build/CMakeFiles/Homework.dir
+/home/amrita/Desktop/Example/build/CMakeFiles/edit_cache.dir
